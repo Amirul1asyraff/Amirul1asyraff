@@ -1,17 +1,135 @@
-🌟 Amirul Asyraff Bin Anuar Nizan 🎓 Bachelor of Information Systems (Hons.) Information Systems Engineering | UiTM Malacca | CGPA: 3.75
+<h1 align="center">Hi, I'm Amirul Asyraff 👋</h1>
 
-Hello! I'm Amirul, an aspiring software developer and certified Requirements Engineering Professional (CPRE). I specialize in designing and implementing systems with a focus on innovative solutions and user-centric designs. With experience in Java, C++, and web technologies like HTML, CSS, and JavaScript, I bring ideas to life through software development and system management.
+<p align="center">
+  <b>Full Stack Developer</b> · PHP Laravel · MySQL · JavaScript<br>
+  Building web systems in Malaysia 🇲🇾
+</p>
 
-💻 What I Do:
+<p align="center">
+  <a href="https://www.linkedin.com/in/amirulasyraff15/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:amirulasyraff0304@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <img src="https://img.shields.io/badge/CPRE--FL-Certified-6E4C9F?style=for-the-badge" alt="CPRE-FL Certified">
+</p>
 
-Develop SRS & SDD documents. Create prototypes with tools like Justinmind, Axure, and Canva. Build and test applications with PostgreSQL, Oracle, and Eclipse. Manage cross-functional collaborations to deliver quality systems. 🎯 Projects:
+---
 
-Cupid Coffee System: A sleek website built with HTML, CSS, and JavaScript. Intel Vision App for Laundry Owners: Smart CCTV integration for safety monitoring. Watersport Booking System: An efficient booking platform. 🏅 Achievements:
+## 👨‍💻 About
 
-Dean’s List (2022-2024). Grand Prize Winner, Wonder App Contest 2019. Top 10, Young CEO Challenge 2023. 📚 Skills:
+Information Systems Engineering graduate who builds and maintains **Laravel** applications end to end — backend features, RESTful APIs, third-party integrations, and the MySQL layer underneath them.
 
-Languages: C++, Java, JavaScript, HTML, CSS. Tools: Visual Studio Code, Oracle SQL, XAMPP, Canva. Communication: Fluent in Malay, proficient in English, basic Japanese. 🌱 Always learning, I’m currently diving deeper into system usability and refining my Java GUI development skills.
+Most of my day is spent on real production systems: reporting modules, billing and e-commerce flows, booking platforms. I've integrated payment gateways, debugged live issues, and shipped features that people actually use.
 
-🔗 Let’s Connect:
+Currently deepening **automated testing** and **cloud deployment** — the two things that turn working code into reliable code.
 
-LinkedIn : https://www.linkedin.com/in/amirulasyraff15/ Email: amirulasyraff0304@gmail.com
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white)
+
+**Frontend**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 💼 Experience
+
+### Software Engineer Intern — TARSOFT Sdn Bhd
+`March 2025 – March 2026`
+
+- Developed and maintained Laravel web applications across **reporting, e-commerce, billing, and booking** modules
+- Built backend features using PHP Laravel, MVC architecture, MySQL, and RESTful API development
+- Designed and implemented **RESTful APIs** for third-party integrations and system communication
+- Integrated payment gateways — **SecurePay** and **ToyyibPay** — for secure online transactions
+- Worked with MySQL queries and database structures supporting reporting and large data processing
+- Used Git/GitHub for version control, collaborating with the team throughout development
+
+---
+
+## 🚀 Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[amiruldev.github.io](https://github.com/Amirul1asyraff/amiruldev.github.io)** | Personal portfolio site | Python · HTML · CSS |
+| **[helpdesk](https://github.com/Amirul1asyraff/helpdesk)** | Support ticketing system | Laravel · Blade · MySQL |
+| **[iventory-laravel](https://github.com/Amirul1asyraff/iventory-laravel)** | Inventory management application | Laravel · Blade · MySQL |
+| **[instagram-laravel](https://github.com/Amirul1asyraff/instagram-laravel)** | Social feed clone — auth, posts, follows | Laravel · Blade · MySQL |
+| **[laravel-crud](https://github.com/Amirul1asyraff/laravel-crud)** | CRUD fundamentals reference build | Laravel · Blade · MySQL |
+
+---
+
+## 🎓 Education & Certification
+
+**Bachelor of Information Systems (Hons.) — Information Systems Engineering**
+Universiti Teknologi MARA (UiTM) Jasin, Melaka · *Oct 2022 – Mar 2025*
+CGPA **3.81** · MUET Band 4
+
+**Foundation in Engineering**
+Universiti Teknologi MARA (UiTM) Dengkil · *Aug 2021 – Aug 2022*
+CGPA **3.85**
+
+🏅 **Certified Professional for Requirements Engineering — Foundation Level (CPRE-FL)**
+`MY-CPRE-FL-2024-00011`
+
+---
+
+## 🏆 Achievements
+
+- 🎖️ **Dean's List** — 2022 to 2024
+- 🥇 **Grand Prize Winner** — Wonder App Contest 2019
+- 🎯 **Top 10** — Young CEO Challenge 2023
+- 👥 **Publicity EXCO**, ISEC UiTM · **Active Member**, ASiD Computing Society
+
+---
+
+## 🗣️ Languages
+
+**Malay** — fluent · **English** — proficient (MUET Band 4) · **Japanese** — basic
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Amirul1asyraff&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirul1asyraff&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 **LinkedIn** — [amirulasyraff15](https://www.linkedin.com/in/amirulasyraff15/)
+- 📧 **Email** — [amirulasyraff0304@gmail.com](mailto:amirulasyraff0304@gmail.com)
+- 🌏 **Location** — Malaysia
+
+<p align="center"><i>Open to collaborating on Laravel projects. Let's build something good.</i></p>
