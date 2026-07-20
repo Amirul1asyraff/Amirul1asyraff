@@ -77,9 +77,39 @@ Currently deepening **automated testing** and **cloud deployment** — the two t
 
 ## 🚀 Projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| **[amiruldev.github.io](https://github.com/Amirul1asyraff/amiruldev.github.io)** | Personal portfolio site | Python · HTML · CSS |
+### 🏅 [sport-booking](https://github.com/Amirul1asyraff/sport-booking) — Sports Facility Booking Platform
+
+A full booking system built with **Laravel 12**, from catalogue to payment.
+
+- **Activity catalogue & time-slot scheduling** — availability managed per activity
+- **Booking checkout with payment records** — full reservation lifecycle
+- **Role-based access control** via Spatie Permissions — customer, staff, and admin views
+- **Scheduled expiry command** (`bookings:expire`) — unpaid bookings release their slots automatically
+- **Media library integration** for activity imagery, plus an in-app notification system
+- Built across feature branches and pull requests — 20 controllers, 10 migrations, 42 views
+
+`Laravel 12` · `MySQL` · `Blade` · `Tailwind` · `Spatie Permissions` · `Media Library`
+
+---
+
+### 🌐 [amiruldev.github.io](https://github.com/Amirul1asyraff/amiruldev.github.io) — Personal Portfolio
+
+My portfolio site. `Python` · `HTML` · `CSS`
+
+---
+
+## 🏢 Professional Work
+
+Systems I've built and maintained that live in private repositories. Described in general terms — the code and clients stay confidential.
+
+| Domain | What I built |
+|---|---|
+| **Performance Management** | Employee appraisal and performance-review system — scoring cycles, multi-level review workflows, moderation, and reporting |
+| **KPI Tracking** | Balanced-scorecard KPI system — target setting, periodic review, and approval chains |
+| **Helpdesk & Ticketing** | Support ticket management with assignment, status workflow, and resolution tracking |
+| **Booking & Reservations** | Booking platforms covering scheduling, availability, and payment flows |
+| **E-Commerce & Billing** | Product, order, and billing modules with payment gateway integration (SecurePay, ToyyibPay) |
+| **Reporting** | Reporting modules over large MySQL datasets, with export and aggregation |
 
 ---
 
