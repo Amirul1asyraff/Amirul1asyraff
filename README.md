@@ -80,10 +80,6 @@ Currently deepening **automated testing** and **cloud deployment** — the two t
 | Project | What it is | Stack |
 |---|---|---|
 | **[amiruldev.github.io](https://github.com/Amirul1asyraff/amiruldev.github.io)** | Personal portfolio site | Python · HTML · CSS |
-| **[helpdesk](https://github.com/Amirul1asyraff/helpdesk)** | Support ticketing system | Laravel · Blade · MySQL |
-| **[iventory-laravel](https://github.com/Amirul1asyraff/iventory-laravel)** | Inventory management application | Laravel · Blade · MySQL |
-| **[instagram-laravel](https://github.com/Amirul1asyraff/instagram-laravel)** | Social feed clone — auth, posts, follows | Laravel · Blade · MySQL |
-| **[laravel-crud](https://github.com/Amirul1asyraff/laravel-crud)** | CRUD fundamentals reference build | Laravel · Blade · MySQL |
 
 ---
 
@@ -114,15 +110,6 @@ CGPA **3.85**
 ## 🗣️ Languages
 
 **Malay** — fluent · **English** — proficient (MUET Band 4) · **Japanese** — basic
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Amirul1asyraff&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirul1asyraff&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
-</p>
 
 ---
 
